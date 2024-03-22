@@ -12,7 +12,7 @@ Bu form ekranı, temel iletişim bilgilerini almak için tasarlanmıştır. Proj
 
 # İletişim
 Eğer projede takıldığınız bir yer olursa veya herhangi bir sorunuz varsa, benimle aşağıdaki iletişim bilgilerimden herhangi biri üzerinden iletişime geçebilirsiniz:
-  - [E-posta](diyaryvzz@gmail.com)
+- E-posta : (diyaryvzz@gmail.com)
 
 - **Sosyal Medya:**
   - [Twitter](https://twitter.com/diyaryvzz)
